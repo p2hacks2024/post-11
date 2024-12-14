@@ -1,5 +1,6 @@
 # P2HACKS2024 アピールシート 
-![Slide 16_9 - 4](https://github.com/user-attachments/assets/18809f34-5562-47cb-9310-f04d89726a50)
+![Slide 16_9 - 4 (1)](https://github.com/user-attachments/assets/3be4acab-5a76-4daa-9dcc-be2c8b356d24)
+
 
 
 ### プロダクト名  
