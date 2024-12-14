@@ -67,17 +67,18 @@
 ## 開発技術 
 
 ### 利用したプログラミング言語  
-Unity (C#)
+- Unity (C#)
 
 ### 利用したフレームワーク・ライブラリ  
-TextMesh Pro
+- TextMesh Pro
 
 ### その他開発に使用したツール・サービス
-Figma
-Notion
-Adobe Illustrator
-StudioOne
-ibisPaint Blender
-Adobe Photoshop
-Adobe Substance 3D Painter
-VirtualMotionCapture
+- Figma
+- Notion
+- Adobe Illustrator
+- StudioOne
+- ibisPaint
+- Blender
+- Adobe Photoshop
+- Adobe Substance 3D Painter
+- VirtualMotionCapture
