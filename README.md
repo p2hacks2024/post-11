@@ -28,9 +28,13 @@
 
 ### スクリーンショット
 ![Screenshot_20241215-033755_BugsLife](https://github.com/user-attachments/assets/57a3cb2a-a303-48a0-ac60-67e62fb27bca)
+ランキング画面
 ![Screenshot_20241215-033800_BugsLife](https://github.com/user-attachments/assets/fbdec678-f78a-4751-9b67-514969af888c)
+サウンド調整画面
 ![スクリーンショット (186) 2](https://github.com/user-attachments/assets/e581a92f-deca-43be-9ee0-0f4571d3a155)
+ゲーム画面
 ![Screenshot_20241215-034002_BugsLife](https://github.com/user-attachments/assets/b5512782-9315-41a2-b306-2f2663ea1068)
+スコア画面
 
 ## 開発体制  
 
