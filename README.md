@@ -20,12 +20,13 @@
 
 
 ### 推しポイント  
-- ジャイロセンサを使った没入感のある体験
-- 光の特徴を利用した新しいゲーム体験
-- 頭を高速回転させてコンボをつなげる達成感
-- メインビジュアル・ロゴ・BGMによるポップで可愛い世界観の演出
-- コンボ・撃破SEによる爽快感のある演出
+- **ジャイロセンサを使った没入感のある体験**
+- **光の特徴を利用した新しいゲーム体験**
+- **頭を高速回転させてコンボをつなげる達成感**
+- **メインビジュアル・ロゴ・BGMによるポップで可愛い世界観の演出**
+- **コンボ・撃破SEによる爽快感のある演出**
 
+### スクリーンショット
 ![Screenshot_20241215-033755_BugsLife](https://github.com/user-attachments/assets/57a3cb2a-a303-48a0-ac60-67e62fb27bca)
 ![Screenshot_20241215-033800_BugsLife](https://github.com/user-attachments/assets/fbdec678-f78a-4751-9b67-514969af888c)
 ![スクリーンショット (186) 2](https://github.com/user-attachments/assets/e581a92f-deca-43be-9ee0-0f4571d3a155)
