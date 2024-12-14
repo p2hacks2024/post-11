@@ -13,6 +13,7 @@
 
 ### 利用の流れ  
 あなたはまぶしいファンサで辺りを明るくしてしまうスキルを持つアイドル。暗い観客席にいるヲタクを照らし、それぞれの望んでいるファンサを見極め、実行することでスコアを稼いでいくシューティングゲームです。
+#### 操作説明
 ![操作説明](https://github.com/user-attachments/assets/cfd609a1-27c5-437e-83a3-8069673473cc)
 ![操作説明 (1)](https://github.com/user-attachments/assets/ce4780e0-b3a2-4d51-93ae-b36fbf2368b5)
 ![操作説明 (2)](https://github.com/user-attachments/assets/5651a776-0e21-481c-bd6a-028f7dd37999)
