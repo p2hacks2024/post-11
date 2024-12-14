@@ -26,12 +26,10 @@
 - メインビジュアル・ロゴ・BGMによるポップで可愛い世界観の演出
 - コンボ・撃破SEによる爽快感のある演出
 
-![Screenshot_20241215-033805_BugsLife](https://github.com/user-attachments/assets/5ee3cccf-813d-477c-ba22-ecb4b1920442)
-![Screenshot_20241215-033755_BugsLife](https://github.com/user-attachments/assets/0d92f2c7-6635-49b2-a004-76e6de5faa72)
-![Screenshot_20241215-033800_BugsLife](https://github.com/user-attachments/assets/57669bb9-7514-4823-84bb-c40a2793048c)
-![スクリーンショット (186) 1](https://github.com/user-attachments/assets/fe99d585-a082-47ce-a3b2-d91bb6898479)
-![Screenshot_20241215-034002_BugsLife](https://github.com/user-attachments/assets/3f6ed309-2e21-4909-9153-da4c61c1c7fe)
-
+![Screenshot_20241215-033755_BugsLife](https://github.com/user-attachments/assets/57a3cb2a-a303-48a0-ac60-67e62fb27bca)
+![Screenshot_20241215-033800_BugsLife](https://github.com/user-attachments/assets/fbdec678-f78a-4751-9b67-514969af888c)
+![スクリーンショット (186) 2](https://github.com/user-attachments/assets/e581a92f-deca-43be-9ee0-0f4571d3a155)
+![Screenshot_20241215-034002_BugsLife](https://github.com/user-attachments/assets/b5512782-9315-41a2-b306-2f2663ea1068)
 
 ## 開発体制  
 
