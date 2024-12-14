@@ -14,9 +14,9 @@
 ### 利用の流れ  
 あなたはまぶしいファンサで辺りを明るくしてしまうスキルを持つアイドル。暗い観客席にいるヲタクを照らし、それぞれの望んでいるファンサを見極め、実行することでスコアを稼いでいくシューティングゲームです。
 #### 操作説明
-![操作説明](https://github.com/user-attachments/assets/cfd609a1-27c5-437e-83a3-8069673473cc)
-![操作説明 (1)](https://github.com/user-attachments/assets/ce4780e0-b3a2-4d51-93ae-b36fbf2368b5)
-![操作説明 (2)](https://github.com/user-attachments/assets/5651a776-0e21-481c-bd6a-028f7dd37999)
+![操作説明 (3)](https://github.com/user-attachments/assets/c030977b-3b9b-4724-9a0f-3b9c56cdfb28)
+![操作説明 (4)](https://github.com/user-attachments/assets/47063ae6-33df-49c0-b044-939c9cf17a94)
+![操作説明 (5)](https://github.com/user-attachments/assets/7e99af0d-434a-47ad-ab4e-a23abdee21cc)
 
 
 ### 推しポイント  
@@ -26,7 +26,11 @@
 - メインビジュアル・ロゴ・BGMによるポップで可愛い世界観の演出
 - コンボ・撃破SEによる爽快感のある演出
 
-スクリーンショット(編集予定)  
+![Screenshot_20241215-033805_BugsLife](https://github.com/user-attachments/assets/5ee3cccf-813d-477c-ba22-ecb4b1920442)
+![Screenshot_20241215-033755_BugsLife](https://github.com/user-attachments/assets/0d92f2c7-6635-49b2-a004-76e6de5faa72)
+![Screenshot_20241215-033800_BugsLife](https://github.com/user-attachments/assets/57669bb9-7514-4823-84bb-c40a2793048c)
+![Screenshot_20241215-034002_BugsLife](https://github.com/user-attachments/assets/3f6ed309-2e21-4909-9153-da4c61c1c7fe)
+
 
 ## 開発体制  
 
