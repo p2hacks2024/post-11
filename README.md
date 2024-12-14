@@ -1,5 +1,6 @@
 # P2HACKS2024 アピールシート 
-![Slide 16_9 - 4](https://github.com/user-attachments/assets/e7e53930-a80a-4387-a763-8040c3c571ba)
+![Slide 16_9 - 4](https://github.com/user-attachments/assets/18809f34-5562-47cb-9310-f04d89726a50)
+
 
 ### プロダクト名  
 フラッシュヲタク
