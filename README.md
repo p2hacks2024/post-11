@@ -29,6 +29,7 @@
 ![Screenshot_20241215-033805_BugsLife](https://github.com/user-attachments/assets/5ee3cccf-813d-477c-ba22-ecb4b1920442)
 ![Screenshot_20241215-033755_BugsLife](https://github.com/user-attachments/assets/0d92f2c7-6635-49b2-a004-76e6de5faa72)
 ![Screenshot_20241215-033800_BugsLife](https://github.com/user-attachments/assets/57669bb9-7514-4823-84bb-c40a2793048c)
+![スクリーンショット (186) 1](https://github.com/user-attachments/assets/fe99d585-a082-47ce-a3b2-d91bb6898479)
 ![Screenshot_20241215-034002_BugsLife](https://github.com/user-attachments/assets/3f6ed309-2e21-4909-9153-da4c61c1c7fe)
 
 
